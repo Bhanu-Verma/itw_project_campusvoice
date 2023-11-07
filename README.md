@@ -4,12 +4,12 @@ In this project we have made an dynamic and database driven issue resolving port
 
 Tech stack --
 1.Front End --
-    Html, css and js for basic design and structure
-    bootstrap for enhancing the design
-    jquery for adding some animations
-    font-awesome, ion-icon  and google fonts for further enhancement
+    Html, css and js for basic design and structure  
+    bootstrap for enhancing the design  
+    jquery for adding some animations  
+    font-awesome, ion-icon  and google fonts for further enhancement  
 
 2.Backend -- 
-    mysql database
-    django framework
-    customusers with proxy tables 
+    mysql database  
+    django framework  
+    customusers with proxy tables   
